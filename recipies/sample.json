@@ -1,0 +1,18 @@
+{
+	"name" : "Sample name",
+	"description" : "Sample description",
+	"images" : "Relative image path",
+	"estimatedTime" : 5,
+	"vegan" : true,
+	"portions" : 6,
+	"stepts" : [
+		"Step 1",
+		"Step 2"
+	],
+	"ingredients" : [
+		{ 
+			"_name" : "Ingridient catalog reference name",
+			"amount" : "Ingridient amaunt and units"
+		}
+	]
+}

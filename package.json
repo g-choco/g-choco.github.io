@@ -1,4 +1,6 @@
-"build": "gatsby build",
-"test": "echo \"no test specified\" && exit 0",
-"preDeploy": "gatsby build --prefix-paths",
-"deploy": "npm run preDeploy && gh-pages -d public"
+{
+  "build": "gatsby build",
+  "test": "echo \"no test specified\" && exit 0",
+  "preDeploy": "gatsby build --prefix-paths",
+  "deploy": "npm run preDeploy && gh-pages -d public"
+}
